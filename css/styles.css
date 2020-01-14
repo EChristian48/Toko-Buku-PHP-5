@@ -1,0 +1,68 @@
+.navbar-static-top {
+  margin-bottom:20px;
+}
+i {
+  font-size:16px;
+}
+.nav > li > a {
+  color:#787878;
+} 
+footer {
+  margin-top:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color:#efefef;
+}
+/* count indicator near icons */
+.nav>li .count {
+  position: absolute;
+  bottom: 12px;
+  right: 6px;
+  font-size: 10px;
+  font-weight: normal;
+  background: rgba(51,200,51,0.55);
+  color: rgba(255,255,255,0.9);
+  line-height: 1em;
+  padding: 2px 4px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+/* indent 2nd level */
+.list-unstyled li > ul > li {
+   margin-left:10px;
+   padding:8px;
+}
+.surat-container{
+    border: 1px solid #777;
+}
+.surat-title{
+    margin-bottom: 20px;
+}
+.surat-title p{
+    margin: 0px ;
+	font-size: 12px;
+}
+.no-padding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.surat-large{
+    font-size: 14px;
+}
+.logo-surat{
+	padding: 15px 10px 0px 0px;
+	max-height:100px;
+}
+.logo-beranda{
+	margin: auto;
+	max-width: 180px;
+}
+ul li.nav-header a{
+	color: #5cb85c;
+}
+ul.collapse li a {
+	color: #d9534f;
+}
